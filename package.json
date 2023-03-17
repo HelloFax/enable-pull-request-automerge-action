@@ -29,22 +29,22 @@
   "homepage": "https://github.com/peter-evans/enable-pull-request-automerge",
   "dependencies": {
     "@actions/core": "^1.10.0",
-    "@octokit/core": "^4.1.0",
+    "@octokit/core": "^4.2.0",
     "https-proxy-agent": "^5.0.1"
   },
   "devDependencies": {
     "@types/jest": "^27.0.3",
-    "@types/node": "^18.11.18",
-    "@typescript-eslint/parser": "^5.48.0",
-    "@vercel/ncc": "^0.36.0",
-    "eslint": "^8.29.0",
-    "eslint-plugin-github": "^4.6.0",
+    "@types/node": "^18.14.1",
+    "@typescript-eslint/parser": "^5.51.0",
+    "@vercel/ncc": "^0.36.1",
+    "eslint": "^8.36.0",
+    "eslint-plugin-github": "^4.6.1",
     "eslint-plugin-jest": "^25.7.0",
-    "jest": "^27.4.3",
-    "jest-circus": "^29.3.1",
+    "jest": "^27.5.1",
+    "jest-circus": "^29.5.0",
     "js-yaml": "^4.1.0",
-    "prettier": "^2.8.1",
+    "prettier": "^2.8.4",
     "ts-jest": "^27.1.5",
-    "typescript": "^4.9.4"
+    "typescript": "^4.9.5"
   }
 }
